@@ -1,0 +1,9 @@
+requests
+beautifulsoup4
+textblob
+transformers
+torch
+torchaudio
+gtts
+keybert
+googletrans
