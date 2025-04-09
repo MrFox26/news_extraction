@@ -1,8 +1,0 @@
-requests
-beautifulsoup4
-textblob
-transformers
-torch
-gtts
-keybert
-googletrans==3.1.0a0
